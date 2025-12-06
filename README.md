@@ -28,6 +28,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
+![wishlist](https://github.com/user-attachments/assets/eae09ca5-03b2-4fb9-adb0-c81a010fc00d)
 
 
 
